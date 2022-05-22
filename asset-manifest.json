@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ef1ec8a.css",
-    "main.js": "/static/js/main.2a268820.js",
-    "index.html": "/index.html",
-    "main.1ef1ec8a.css.map": "/static/css/main.1ef1ec8a.css.map",
-    "main.2a268820.js.map": "/static/js/main.2a268820.js.map"
+    "main.css": "/leaflet_react_test/static/css/main.1ef1ec8a.css",
+    "main.js": "/leaflet_react_test/static/js/main.2a268820.js",
+    "index.html": "/leaflet_react_test/index.html",
+    "main.1ef1ec8a.css.map": "/leaflet_react_test/static/css/main.1ef1ec8a.css.map",
+    "main.2a268820.js.map": "/leaflet_react_test/static/js/main.2a268820.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef1ec8a.css",
